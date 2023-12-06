@@ -7,7 +7,7 @@
 
 -> It also calculates the BMI of the User based on the User Input.
 
-
+-> Implemented the database using FireBase keeping track of users creating an account and logging in.
 
 
 
