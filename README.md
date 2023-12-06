@@ -6,3 +6,9 @@
 -> This App gives recomendation based on the Net Calories calculated by the App.
 
 -> It also calculates the BMI of the User based on the User Input.
+
+
+
+
+
+
