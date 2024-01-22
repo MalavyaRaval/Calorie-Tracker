@@ -12,7 +12,7 @@
 
 ## Future Work
 
--> Implement a Calender to keep a track of calries/food consumed along with the exercies that are done regularly.
+-> Implement a Calender to keep a track of calories/food consumed along with the exercies that are done regularly.
 
 -> Give a goal feature so that the user can set a goal for a month so that they can achive it.
 
