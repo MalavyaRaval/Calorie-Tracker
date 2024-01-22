@@ -10,5 +10,13 @@
 -> Implemented the database using FireBase keeping track of users creating an account and logging in.
 
 
+## Future Work
+
+-> Implement a Calender to keep a track of calries/food consumed along with the exercies that are done regularly.
+
+-> Give a goal feature so that the user can set a goal for a month so that they can achive it.
+
+-> Give recomendation based on the Goal which is set and based on the previous activities so that the Goal is achived.
+
 
 
